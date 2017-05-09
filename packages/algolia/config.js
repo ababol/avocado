@@ -1,0 +1,5 @@
+module.exports = {
+  ALGOLIA_APP_ID: '59TPOUAL59',
+  ALGOLIA_API_ADMIN_KEY: process.env.ALGOLIA_API_ADMIN_KEY,
+  ALGOLIA_API_INDEX_NAME: 'avocats'
+};

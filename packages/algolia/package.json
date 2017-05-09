@@ -1,0 +1,17 @@
+{
+  "name": "algolia",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">= 7.10.0",
+    "yarn": ">= 0.18.0"
+  },
+  "dependencies": {
+    "algoliasearch": "^3.22.1"
+  }
+}

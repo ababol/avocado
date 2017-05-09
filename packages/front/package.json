@@ -1,0 +1,26 @@
+{
+  "name": "avocado-front",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "dev": "node server.js -e ",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "now": {
+    "alias": ["avocado.babol.me"]
+  },
+  "author": "Arnaud Babol",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "google-map-react": "^0.24.0",
+    "isomorphic-fetch": "^2.2.1",
+    "lru-cache": "^4.0.2",
+    "next": "^2.3.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-instantsearch": "^3.3.2"
+  }
+}

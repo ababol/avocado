@@ -41,7 +41,7 @@ function TopbarStyle() {
 export default ({ children }) => (
   <div className="topbar__container">
     <div className="topbar__logo">
-      <Link href="/"><a className="logo" /></Link>
+      <Link prefetch href="/"><a className="logo" /></Link>
     </div>
     <div className="topbar__center">
       <div className="center__wrapper">

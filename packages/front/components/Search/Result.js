@@ -19,7 +19,7 @@ const Result = createConnector({
 
 function HitContent({hit}) {
  return (
-   <Link href={`/avocat?id=${encodeURIComponent(hit.id)}`} as={`/avocat/${hit.id}`}>
+   <Link prefetch href={`/avocat?id=${encodeURIComponent(hit.id)}`} as={`/avocat/${hit.id}`}>
      <a className="card__avocat">
        <div className="avocat__logo" style={{backgroundImage: `url(${hit.avatar || '/static/avocado.png'})`}} />
        <div className="avocat__info">

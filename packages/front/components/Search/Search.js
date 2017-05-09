@@ -8,7 +8,6 @@ import {
   InstantSearch,
   Pagination,
 } from 'react-instantsearch/dom';
-import Link from 'next/link';
 import Result from './Result';
 import SearchBox from './SearchBox';
 import Topbar from '../Topbar';

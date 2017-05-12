@@ -8,7 +8,7 @@
     "start": "NODE_ENV=production node server.js"
   },
   "now": {
-    "alias": ["avocado.babol.me"]
+    "alias": ["avocado.babol.me", "avocado.babol.io"]
   },
   "author": "Arnaud Babol",
   "license": "MIT",

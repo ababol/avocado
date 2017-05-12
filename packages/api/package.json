@@ -19,7 +19,7 @@
     "yarn": ">= 0.18.0"
   },
   "now": {
-    "alias": ["avocado-api.babol.me"]
+    "alias": ["avocado-api.babol.me", "avocado-api.babol.io"]
   },
   "scripts": {
     "eslint": "eslint src/. test/. --config .eslintrc.json",

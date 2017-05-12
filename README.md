@@ -58,7 +58,7 @@ npm start
 
 # [packages/api](https://github.com/ababol/avocado/tree/master/packages/api)
 
-> API rest avocado (https://avocado-api.babol.me)
+> API rest avocado (https://avocado-api.babol.io)
 
 ## Install
 
@@ -81,7 +81,7 @@ yarn start
 
 # [packages/front](https://github.com/ababol/avocado/tree/master/packages/front)
 
-> Front avocado (https://avocado.babol.me)
+> Front avocado (https://avocado.babol.io)
 
 ## Install
 
@@ -105,4 +105,4 @@ yarn start
 
 # Demo
 
-* [Avocado - Best avocado](https://avocado.babol.me)
+* [Avocado - Best avocado](https://avocado.babol.io)
